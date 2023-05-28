@@ -103,7 +103,7 @@ class CSULibrary(object):
         self.login()
 
         #access_token = requests.utils.dict_from_cookiejar(self.client.cookies)[
-            'access_token']
+        #    'access_token']
 
         #access_token = "7a6e86129327293c281b20503047923b"
             
